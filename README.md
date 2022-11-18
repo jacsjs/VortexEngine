@@ -8,4 +8,4 @@ It is also based on a complete physics engine I wrote in java before this one, h
 
 My ambition was to convert this project to rust, however that is yet to be done.
 
-This was before I knew anything about threads, so should I continue this project at some point to continue learning, threads need to be implemented properly.
+This was before I knew anything about threads, so should I continue at some point for further learning purposes, threads need to be implemented properly.
